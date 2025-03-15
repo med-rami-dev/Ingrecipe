@@ -55,7 +55,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto flex h-16 items-center justify-between px-4">
           <div className="flex items-center">
             <Link to="/" className="font-bold text-2xl text-blue-600">
-              Recipe Finder
+              Ingrecipe
             </Link>
           </div>
           <div className="flex items-center space-x-4">

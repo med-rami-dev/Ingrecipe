@@ -113,48 +113,6 @@ const nutritionDatabase: Record<string, Partial<NutritionData>> = {
     sugar: 4.2,
   },
 
-  // Fruits
-  apple: {
-    calories: 52,
-    protein: 0.3,
-    carbs: 14,
-    fat: 0.2,
-    fiber: 2.4,
-    sugar: 10,
-  },
-  banana: {
-    calories: 89,
-    protein: 1.1,
-    carbs: 23,
-    fat: 0.3,
-    fiber: 2.6,
-    sugar: 12,
-  },
-  orange: {
-    calories: 47,
-    protein: 0.9,
-    carbs: 12,
-    fat: 0.1,
-    fiber: 2.4,
-    sugar: 9,
-  },
-  berries: {
-    calories: 57,
-    protein: 0.7,
-    carbs: 14,
-    fat: 0.3,
-    fiber: 2,
-    sugar: 5,
-  },
-  avocado: {
-    calories: 160,
-    protein: 2,
-    carbs: 8.5,
-    fat: 14.7,
-    fiber: 6.7,
-    sugar: 0.7,
-  },
-
   // Grains
   rice: {
     calories: 130,

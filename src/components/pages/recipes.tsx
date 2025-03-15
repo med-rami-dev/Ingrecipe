@@ -5,6 +5,7 @@ import { useRecipes } from "../recipe/RecipeService";
 import { LoadingScreen } from "@/components/ui/loading-spinner";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
+import { Recipe } from "../recipe/RecipeCard";
 
 // Mock data for initial development
 const mockRecipes: Recipe[] = [
